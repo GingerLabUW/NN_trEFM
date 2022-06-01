@@ -7,8 +7,8 @@ Department of Chemistry, University of Washington, Seattle, WA, USA, 98195
 In order to extract dynamics from time-resolved electrostatic force microscopy (trEFM) data, we developed, trained, and tested an artificial neural network to intake arrays of data and output a time constant, $\\tau$ ($\mu s$), that describes the dynamics of interest. To read more about trEFM as a technique and more about this work in particular, see citations below.
 
 ## How to get started:
-- Clone this repository or download the .ipynb and .py files directly.
-- Launch the Jupyter notebook and follow the included instructions on how to download the example data.
+- Clone this repository or download the .ipynb and .py files directly. 
+- Launch the Jupyter notebook and follow the included instructions on how to download the example data. (Please also note the documentation included in the NNFFtrEFM.py file.)
 
 ## Citations
 1. Breshears, M.D., Giridharagopal, R., Pothoof, J., Ginger, D.S. A Robust Neural Network for Extracting Dynamics from Time-Resolved Electrostatic Force Microscopy Data. *Submitted.* **2022**.
