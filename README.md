@@ -11,9 +11,13 @@ In order to extract dynamics from time-resolved electrostatic force microscopy (
 - Launch the Jupyter notebook and follow the included instructions on how to download the example data. (Please also note the documentation included in the NNFFtrEFM.py file.)
 
 ## Required Packages
+
 `PyTorch`: `pip install torch`
+
 `PyTorch Lightning`: `pip install pytorch-lightning`
+
 `SHAP`: `pip install shap`
+
 
 ## Citations
 1. Breshears, M.D., Giridharagopal, R., Pothoof, J., Ginger, D.S. A Robust Neural Network for Extracting Dynamics from Time-Resolved Electrostatic Force Microscopy Data. *Submitted.* **2022**.
